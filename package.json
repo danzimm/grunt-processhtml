@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "async": "^1.5.2",
-    "htmlprocessor": "^0.2.6",
+    "htmlprocessor": "danzimm/node-htmlprocessor#master",
     "lodash": "^4.17.20"
   },
   "devDependencies": {
